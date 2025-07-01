@@ -1,6 +1,6 @@
 # Occupational Accident Mortality in Brazil between 2010 and 2022
 
-The repository [Occupational Accident Mortality in Brazil data]() contains six files made to describe and show the process of gathering, tidying and analyzing data of the [Occupational Accident Mortality in Brazil Datasets](https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019) from the years 2010 to 2022.
+The repository [Occupational Accident Mortality in Brazil data](https://github.com/rodrigoegdata/Occupational-Accident-Mortality) contains seven files made to describe and show the process of gathering, tidying and analyzing data of the [Occupational Accident Mortality in Brazil Datasets](https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019) from the years 2010 to 2022.
 
 # Repository Content
 
@@ -14,4 +14,6 @@ The repository [Occupational Accident Mortality in Brazil data]() contains six f
 
 5. [**POP2022_Brasil_e_UFs.csv**](https://github.com/rodrigoegdata/Occupational-Accident-Mortality/blob/main/POP2022_Brasil_e_UFs.csv) - `.csv` document with the total population number for each Brazilian State according with the last [Census](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html).
 
-6. [**README.md**](https://github.com/rodrigoegdata/Occupational-Accident-Mortality/blob/main/README.md) - explains the files present in this repository.
+6. [**Mortalidade_Geral_Estrutura.pdf**](https://github.com/rodrigoegdata/Occupational-Accident-Mortality/blob/main/Mortalidade_Geral_Estrutura.pdf) - `.pdf` code book for the raw dataset.
+
+7. [**README.md**](https://github.com/rodrigoegdata/Occupational-Accident-Mortality/blob/main/README.md) - explains the files present in this repository.
